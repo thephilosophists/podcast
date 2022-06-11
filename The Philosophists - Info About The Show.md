@@ -1,3 +1,5 @@
+# The Philosophists - Info About The Show
+
 ### Social Stuff
 * You can follow The Philosophists on
   - Instagram - https://www.instagram.com/thephilosophists
