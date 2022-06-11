@@ -11,6 +11,11 @@
 * Show website at https://www.thephilosophists.com
 * RSS feed at https://feeds.buzzsprout.com/1648777.rss
 
+### Contact
+If you want to contact the show you can send an email to **show  AT  thephilosophists  DOT  com**
+
+_(just replace the AT with the @ symbol and the DOT with the . character)_
+
 ### Credits
 * "Bike, Bell Ding, Single, 01-01.wav" by InspectorJ (www.jshaw.co.uk) of Freesound.org
 * Music and artwork by © 2022 Declan McGrath, All Rights Reserved
